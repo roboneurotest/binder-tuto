@@ -17,11 +17,7 @@ It ties together many technologies :
 2. Create a repository with at leat one notebook (your work), and its dependencies in a file `requirements.txt`.
 
 3. Upload your git repository into a collection of interactive notebooks : https://mybinder.org/
-
-4. (optionnal) Add a badge to the readme or your repository : 
-```
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<user_name>/<repo_name>/master)
-```
+You can now share the link of the environment to anyone who has a browser !
 
 ### Few tips
 
