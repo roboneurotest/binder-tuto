@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master)
 
 # binder-tuto
-A tutorial on how to create a binder project
+A tutorial on how to create a binder executable environment.
 
 ### What is Binder ?
 [Binder](https://github.com/jupyterhub/binderhub) allows you to open notebooks from a git repo in an executable environment, accessible by anyone in the web. This make your work reproducible and shareable verry easy like never before. 
