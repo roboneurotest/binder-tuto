@@ -22,7 +22,7 @@ You can now share the link of the environment to anyone who has a browser !
 
 ### Few tips
 
-* You can find other examples [here](https://mybinder.readthedocs.io/en/latest/sample_repos.html)
+* You can find other examples [here](https://mybinder.readthedocs.io/en/latest/sample_repos.html).
 
 * It is possible to commit your `.ipynb_checkpoints` to save the state of the notebooks. This way, any user that open the session will have a ready to play environment (without the need to re-execute the notebook). 
 
