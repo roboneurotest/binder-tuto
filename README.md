@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master)
+
 # binder-tuto
 A tutorial on how to create a binder project
 
