@@ -8,7 +8,7 @@ A tutorial on how to create a binder executable environment.
 
 It ties together many technologies :
 * [Docker](https://www.docker.com/), a tool that emphasizes reproducibility by packaging your applications into containers to run them in any environment.
-* [Jupyter hub](https://jupyterhub.readthedocs.io/en/latest/), provide the infrastructure to share multiple instances of notebooks among many user.
+* [Jupyter hub](https://jupyterhub.readthedocs.io/en/latest/), that provides the infrastructure to share multiple instances of notebooks among many user.
 
 ### How to upload a work on Binder ?
 
