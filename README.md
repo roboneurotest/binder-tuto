@@ -1,6 +1,9 @@
 # binder-tuto
 A tutorial on how to create a binder project
 
+To upload a repository to the binder hub:
+https://mybinder.org/
+
 some repos examples:
 https://mybinder.readthedocs.io/en/latest/sample_repos.html
 
