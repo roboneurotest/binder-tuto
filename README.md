@@ -31,3 +31,7 @@ You can now share the link of the environment to anyone who has a browser !
 ```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<user_name>/<repo_name>/master)
 ```
+
+### Acknowledgements
+
+@emdupre, @mathieuboudreau
