@@ -1,5 +1,6 @@
-Lab : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?urlpath=lab)
+conp8 Lab : [![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?urlpath=lab)
 
+Lab : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?urlpath=lab)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?filepath=notebooks%2Fnilearn-example.ipynb)
 
@@ -35,6 +36,8 @@ You can now share the link of the environment to anyone who has a browser !
 ```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<user_name>/<repo_name>/master)
 ```
+
+* Adding `?urlpath=lab` at the end of the link will open a jupyter lab environment. You can also point to a notebook with `?filepath=notebooks%2Fnilearn-example.ipynb` !
 
 ### Acknowledgements
 
