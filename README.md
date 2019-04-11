@@ -1,4 +1,4 @@
-conp8 Lab : [![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?urlpath=lab)
+conp8 Lab : [![Binder](https://conp8.calculquebec.cloud/badge_logo.svg)](https://conp8.calculquebec.cloud/v2/gh/ltetrel/binder-tuto/master?urlpath=lab)
 
 Lab : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?urlpath=lab)
 
