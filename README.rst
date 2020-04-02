@@ -28,8 +28,6 @@ After you can:
 Few tips
 ::::::::
 
-Check `this repo <https://github.com/ltetrel/binder-tuto>`_, you can also find other examples there.
-
 If you execute your notebook before pushing it to github, any user that open the session will have a ready to play environment (without the need to re-execute the notebook).
 
 You can add a badge in your repository. When clicking to this badge, anyone can access the executable environment in an easy way ! Just add this snippet to your README:
