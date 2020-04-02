@@ -14,15 +14,6 @@ It ties together many technologies :
 * `JupyterHub <https://jupyter.org/hub>`_, which uses `kubernetes <https://kubernetes.io/>`_ to share multiple instances of notebooks among many users.
 * `repo2docker <https://github.com/jupyter/repo2docker>`_, a tool that converts GitHub repositories into Jupyter-enabled Docker images.
 
-Pre-requisites
-::::::::::::::
-* GitHub ease
-* Basic knowledge on python packages (pip)
-
-What will you learn ?
-:::::::::::::::::::::
-* Create a binder link
-
 How to upload a work on Binder ?
 ::::::::::::::::::::::::::::::::
 
