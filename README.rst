@@ -25,19 +25,32 @@ After you can:
 3.  Build your repository into a Docker image that will host your interactive notebooks : https://mybinder.org/
 4.  After few seconds, the link to share your notebook(s) from your GitHub repository are ready. Share it to anyone who has an internet browser!
 
+Check `this repo <https://github.com/ltetrel/binder-tuto>`_, it contains all the necessary requirements.
+
 Few tips
 ::::::::
 
 If you execute your notebook before pushing it to github, any user that open the session will have a ready to play environment (without the need to re-execute the notebook).
 
-You can add a badge in your repository. When clicking to this badge, anyone can access the executable environment in an easy way ! Just add this snippet to your README:
+You can add a badge in your repository:
+
+.. image:: https://mybinder.org/badge_logo.svg
+    :target: https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?filepath=notebooks%2Fnilearn-example.ipynb
+
+When clicking on this badge, anyone can access the executable environment in an easy way.
+Just add this snippet to your file, it can be either a ``.md`` or ``.rst``:
 
 .. code-block:: markdown
+
     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<user_name>/<repo_name>/master)
+
+.. code-block:: rst
+
+    .. image:: https://mybinder.org/badge_logo.svg
+        :target: https://mybinder.org/v2/gh/ltetrel/binder-tuto/master?filepath=notebooks%2Fnilearn-example.ipynb
 
 Adding ``?urlpath=lab`` at the end of the link will open a jupyter lab environment.
 You can also point to a specific notebook with ``?filepath=notebooks%2Fnilearn-example.ipynb``!
-
 
 Acknowledgements
 ::::::::::::::::
