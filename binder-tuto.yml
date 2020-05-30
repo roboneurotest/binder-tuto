@@ -1,0 +1,24 @@
+title: my submission
+summary: Please add a brief (50-60 words) summary of your work. This summary will appear at the publication card (https://neurolibre.com)
+authors:
+- name: loic tetrel
+  website: https://github.com/ltetrel
+  affiliation: Please type in your affiliation here. For multiple affiliations, see the next author entry
+# Please pay attention to indentations when adding multiple authors.
+- name: Another Author
+  website: If availabe, this entry can point to author's GitHub page or personal website. Please delete this line if not available.
+  affiliation:
+    - Affiliation 1
+    - Affiliation 2
+keywords:
+  - kw1
+  - kw2
+submission:
+  date: 2020-05-29
+  id: 15
+  assignee: agahkarakuzu
+  category: Publication
+  upstream: https://github.com/ltetrel/binder-tuto
+associated_publication:
+- citation: https://github.com/ltetrel/binder-tuto
+  url: https://github.com/ltetrel/binder-tuto
